@@ -1,0 +1,23 @@
+############################################################################################
+
+TO CONVERT THE CODE IN TO AN EXECUTABLE FILE(APPLICATION)...
+
+1) CREATE A FOLDER ANYWHERE AND SAVE THE .py CODE INSIDE THE FOLDER.
+
+2) OPEN THE FOLDER AND HOLD 'SHIFT' BUTTON AND THEN RIGHT CLICK ON THE EMPTY SPACE INSIDE THE FOLDER.
+
+3) CLICK ON POWERSHELL/COMMAND PROMPT (THIS WILL ONLY APPEAR IF YOU HOLD 'SHIFT' AND 'RIGHT CLICK' ON THE SCREEN) 
+
+4) MAKE SURE THAT YOU HAVE INSTALLED 'PYINSTALLER' OTHERWISE CLICK BELOW TO DOWNLOAD.
+   LINK : https://files.pythonhosted.org/packages/b4/83/9f6ff034650abe9778c9a4f86bcead63f89a62acf02b1b47fc2bfc6bf8dd/pyinstaller-4.2.tar.gz
+   THEN TYPE 'pip install pyinstaller' (WITHOUT QUOTES).
+   
+5) TYPE 'pyinstaller' IN THE POWERSHELL/COMMAND PROMPT ( TO CHECK WHETHER PYINSTALLER IS SUCCESSIFULLY INSTALLED OR NOT)
+
+6) TYPE 'pyinstaller --onefile "filename.py" '(WITHOUT QUOTES). {IF YOU HAVE ANY ICON TO ADD THEN SAVE THE IMACE IN THE .ico FORMAT IN THE SAME FOLDER
+                                                                 THEN INCLUDE THIS AFTER --onefile -> ' -i "yourIconName.ico" ' 
+                                                                 (with double quotes for yourIconName.ico) }
+
+7) WAIT UNTIL IT IS PROCESSED, AFTER THAT YOUR APPLICATION WILL BE STORED IN THE 'DIST' FOLDER.
+
+8) THIS APPLICATION CAN THEN BE SHARED TO OTHERS.
