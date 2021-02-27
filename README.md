@@ -1,12 +1,9 @@
-# BELL_NOZZLE_CONTOUR_APP
-Application designed for the previous repository, on bell nozzle contour generation.
+###### BELL_NOZZLE_CONTOUR_APP ######
 
+# APPLICATION DESIGNED FOR THE PRECIOUS REPOSITORY, ON BELL NOZZLE CONTOUR GENERATION.
 
-#**** ANNOUNCEMENT ****#
+# TRY OUT OUR APP FROM THE LINK GIVEN BELOW #
 
-WE WILL BE UPLOADING THE APP SOON AFTER OPTIMIZING IT
-UNTILL THEN TRY OUT THE BETA VERSION FROM THE LINK BELOW.
-VISIT : https://sid12123.itch.io/design-and-flow-analysis-of-bell-nozzle
+# VISIT : https://sid12123.itch.io/design-and-flow-analysis-of-bell-nozzle
 
-#ESTIMATED RELEASE DATE: 10 MARCH 2021.
-
+# FOR THE CODE PLEASE REFER THE ABOVE REPOSITORY #
