@@ -4,6 +4,6 @@
 
 # TRY OUT OUR APP FROM THE LINK GIVEN BELOW #
 
-# VISIT : https://sid12123.itch.io/design-and-flow-analysis-of-bell-nozzle
+# VISIT : https://team-aero.itch.io/design-and-flow-analysis-of-bell-nozzle
 
 # FOR THE CODE PLEASE REFER THE ABOVE REPOSITORY #
