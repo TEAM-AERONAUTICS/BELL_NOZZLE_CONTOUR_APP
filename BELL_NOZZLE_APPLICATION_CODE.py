@@ -22,6 +22,7 @@ from math import *
 from scipy.optimize import brentq
 from matplotlib.pyplot import *
 from xlwt import Workbook
+import numpy as np
 
 #MAIN CODE------------------------------------------------------------------------------------------
 try:
