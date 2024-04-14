@@ -1,9 +1,12 @@
-# ***BELL_NOZZLE_CONTOUR_APP*** #
+# BELL NOZZLE CONTOUR APP
 
-# APPLICATION DESIGNED FOR THE PREVIOUS REPOSITORY, ON BELL NOZZLE CONTOUR GENERATION.
+This application is designed as a companion to the previous repository on Bell Nozzle Contour Generation.
 
-# TRY OUT OUR APP FROM THE LINK GIVEN BELOW #
+## Try Out Our App!
 
-# VISIT : https://team-aero.itch.io/design-and-flow-analysis-of-bell-nozzle
+Visit [here](https://team-aero.itch.io/design-and-flow-analysis-of-bell-nozzle) to try out our app.
 
-# FOR THE CODE PLEASE REFER THE ABOVE REPOSITORY #
+## Repository
+
+For the code, please refer to the [above repository](https://github.com/your-username/your-repository).
+
